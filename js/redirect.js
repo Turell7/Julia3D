@@ -1,0 +1,1 @@
+window.location.replace("https://julia3d.ru/");
